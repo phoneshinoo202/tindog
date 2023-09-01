@@ -16,7 +16,7 @@
   transform: rotate(30deg);
 }
 .head {
-  background-color: rgb(216, 92, 113);
+  background-color: rgb(212, 62, 87);
   height: 90vh;
   color: white;
   overflow: hidden;
@@ -38,59 +38,87 @@ h1 {
 .btnr {
   margin-left: 15px;
 }
-.body1{
-    border: 1px solid blue;
-    height: 70vh;
-    display: flex;
+.body1 {
+  /* border: 1px solid blue; */
+  height: 70vh;
+  display: flex;
 }
-.box{
-    width: 20%;
-    text-align: center;
-    padding-top: 160px;
-    margin-left: 120px;
+.box {
+  width: 20%;
+  text-align: center;
+  padding-top: 160px;
+  margin-left: 120px;
 }
-.boxh3{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
+.boxh3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
 }
-.boxp{
-    font-size: small;
-    color:rgb(122, 115, 106);
+.boxp {
+  font-size: small;
+  color: rgb(122, 115, 106);
 }
-.box2{
-    border: 1px solid red;
-    background-color: pink;
-    height: 100vh;
+.box2 {
+  /* border: 1px solid red; */
+  background-color: rgb(220, 125, 78);
+  height: 100vh;
 }
-.box2h2{
-    font-family: 'Times New Roman', Times, serif;
-    color: aliceblue;
-    text-align: center;
-    margin-bottom: 30px;
+.box2h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: aliceblue;
+  text-align: center;
+  margin-bottom: 30px;
 }
-.box2section{
-    padding: 50px 200px;
-    text-align: center;
+.box2section {
+  padding: 50px 200px;
+  text-align: center;
 }
-.box2img{
-    margin-top: 60px;
+.box2img {
+  margin-top: 60px;
 }
-.box3{
-    height: 100vh;
+.box3 {
+  height: 100vh;
 }
-.box3h2{
-    font-family: 'Times New Roman', Times, serif;
-    
+.box3h2 {
+  font-family: "Times New Roman", Times, serif;
 }
-.box3p{
-    font-size: 10px;
-    color: rgb(122, 115, 106);
+.box3p {
+  font-size: 10px;
+  color: rgb(122, 115, 106);
 }
-.box3heading{
-    text-align: center;
-    padding-left: 100px !important;
-    padding-top: 12vh;
+.box3heading {
+  text-align: center;
+  padding-left: 100px !important;
+  padding-top: 12vh;
 }
-.pricing-tag{
+.pricing-tag {
   margin: 15px 50px;
 }
+.bfoft {
+  background-color:rgb(212, 62, 87);
+  height: 60vh;
+  text-align: center;
+}
+.bfofth3 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  padding-top: 120px;
+}
+.bfoftbtn {
+  padding-top: 20px;
+}
+.footer {
+  height: 40vh;
+  text-align: center;
+}
+.icons {
+  padding-bottom: 15px;
+  padding-top: 80px;
+}
+.end{
+  font-size: small;
+    color: rgb(122, 115, 106);
+}
+.cardhead{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}  
